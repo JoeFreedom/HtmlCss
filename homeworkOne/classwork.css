@@ -1,0 +1,25 @@
+body{
+    background: aliceblue;
+}
+#sectionOne{
+    font-family: "Arial";
+    width:800px;
+    margin:0px auto;
+    background-color: #f5f5f5;
+    text-align: justify;
+    padding: 20px;
+}
+.formula{
+    background-color: hotpink;
+    padding: 5px;
+}
+.red_letters{
+    color: red;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+}
+.formula-p{
+    text-align: center;
+}
